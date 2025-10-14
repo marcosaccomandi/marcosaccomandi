@@ -21,7 +21,7 @@ Currently focusing on building my skills in **Business Intelligence**, **data vi
 ---
 
 ### <img src="assets/section_icon_color_outline.svg" width="20" align="center"/> Featured Project  
-<img src="assets/section_icon_color.svg" width="20" align="center"/> [**Born to Live, Born to Die**](https://github.com/marcosaccomandi/Data-BI-Portfolio/tree/main/tableau/born-to-live-born-to-die)  
+<img src="assets/section_icon_color_outline.svg" width="20" align="center"/> [**Born to Live, Born to Die**](https://github.com/marcosaccomandi/Data-BI-Portfolio/tree/main/tableau/born-to-live-born-to-die)  
 An interactive data story inspired by a *tabloid-style* narrative, built in Tableau Public.  
 
 ---
@@ -33,9 +33,9 @@ A collection of projects showcasing data storytelling, dashboards, and analytics
 ---
 
 ### <img src="assets/section_icon_color_outline.svg" width="20" align="center"/> Contact  
-📍 Italy — Open to remote opportunities  
+Italy — Open to remote opportunities  
 ✉️ [kiddsit@gmail.com](mailto:kiddsit@gmail.com)  
-💼 *LinkedIn and Tableau Public links coming soon!*  
+*LinkedIn and Tableau Public links coming soon!*  
 
 ---
 
