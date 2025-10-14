@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/banner.png" alt="Marco Saccomandi | Data & BI Portfolio" width="800"/>
 </p>
 
-<img src="assets/section_icon_color.svg" width="20" align="center"/> **Junior Data Analyst & BI Developer**  
+<img src="assets/section_icon_color_outline.svg" width="20" align="center"/> **Junior Data Analyst & BI Developer**  
 Developing expertise in **Data Visualization** and **Storytelling** through tools like Tableau, Power BI, SQL, and Python.  
 
 ---
