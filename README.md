@@ -38,7 +38,8 @@ A collection of projects showcasing data storytelling, dashboards, and analytics
 ### <img src="assets/section_icon_color_outline.svg" width="20" align="center"/> Contact  
 Italy — Open to remote opportunities  
 ✉️ [kiddsit@gmail.com](mailto:kiddsit@gmail.com)  
-*LinkedIn and Tableau Public links coming soon!*  
+[**Tableau Public Profile**](https://public.tableau.com/app/profile/marco.saccomandi)
+*LinkedIn  links coming soon!*  
 
 ---
 
