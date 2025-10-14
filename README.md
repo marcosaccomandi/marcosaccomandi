@@ -30,6 +30,9 @@ An interactive data story inspired by a *tabloid-style* narrative, built in Tabl
 📁 [**Data & BI Portfolio**](https://github.com/marcosaccomandi/Data-BI-Portfolio)  
 A collection of projects showcasing data storytelling, dashboards, and analytics.
 
+[Excel Data Cleaning & Reporting (Real Case)](https://github.com/marcosaccomandi/Data-BI-Portfolio/tree/main/projects/Excel_Data_Clean_realcasesmall)  
+*Data cleaning, automation, and reporting using Excel and Pivot Tables.*
+  
 ---
 
 ### <img src="assets/section_icon_color_outline.svg" width="20" align="center"/> Contact  
