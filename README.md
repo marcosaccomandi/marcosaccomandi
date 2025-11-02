@@ -58,7 +58,7 @@ Each one explores how visualization can make data more accessible, understandabl
 
 📍 Italy — Open to remote opportunities  
 ✉️ [kidd5it@gmail.com](mailto:kidd5it@gmail.com)  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/marcosaccomandi/) · [**Tableau Public**](https://public.tableau.com/app/profile/marco.saccomandi)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/marco-saccomandi-5bbb3b2a/) · [**Tableau Public**](https://public.tableau.com/app/profile/marco.saccomandi)
 
 ---
 
